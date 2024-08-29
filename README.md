@@ -1,4 +1,5 @@
 # Simon-Game
+LIVE at: https://anindyapaul001.github.io/Simon-Game/
 A classic Simon memory game implemented using HTML, CSS, and JavaScript. This interactive game challenges players to remember and replicate increasingly complex sequences of colors and sounds. The game starts with a single color and sound sequence, and with each successful repetition, the sequence grows longer, testing the player's memory and reaction skills.
 
 Features:
